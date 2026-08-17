@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Archivos intermedios / cache
+*.xlsx
+*.parquet
+
+# Sistema
+.DS_Store
+Thumbs.db
